@@ -53,24 +53,6 @@ everything I do: if something has to be done manually twice, it should be code.
 
 ### GitHub
 
-<!--
-  Os cards abaixo usam a instancia publica do github-readme-stats, que estoura o
-  limite da API do GitHub e quebra a imagem. Depois de subir a sua propria
-  instancia no Vercel, troque "github-readme-stats.vercel.app" pela sua URL nos
-  dois links.
--->
-
-<div align="center">
-  <a href="https://github.com/lucas-ramosfs">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucas-ramosfs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub stats">
-  </a>
-  <a href="https://github.com/lucas-ramosfs">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ramosfs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages">
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas-ramosfs/lucas-ramosfs/output/github-snake-dark.svg">
