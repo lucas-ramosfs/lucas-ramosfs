@@ -16,6 +16,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lucas-ramosfs/lucas-ramosfs/main/assets/pipeline.svg" alt="CI/CD pipeline">
+</div>
+
+---
+
 ### What I work on
 
 - **Kubernetes in production** on Amazon EKS, including stateful workloads
@@ -49,20 +55,3 @@ everything I do: if something has to be done manually twice, it should be code.
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
----
-
-### GitHub
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lucas-ramosfs/lucas-ramosfs/main/assets/pipeline.svg" alt="CI/CD pipeline">
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas-ramosfs/lucas-ramosfs/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas-ramosfs/lucas-ramosfs/output/github-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/lucas-ramosfs/lucas-ramosfs/output/github-snake.svg">
-  </picture>
-</div>
