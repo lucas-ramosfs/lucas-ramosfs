@@ -54,6 +54,12 @@ everything I do: if something has to be done manually twice, it should be code.
 ### GitHub
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/lucas-ramosfs/lucas-ramosfs/main/assets/pipeline.svg" alt="CI/CD pipeline">
+</div>
+
+<br>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas-ramosfs/lucas-ramosfs/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas-ramosfs/lucas-ramosfs/output/github-snake.svg">
