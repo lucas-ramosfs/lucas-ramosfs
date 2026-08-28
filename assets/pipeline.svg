@@ -130,7 +130,7 @@
 <rect id="sp1" fill="#3a2a12" stroke="#e0a83c" x="430" y="322" width="80" height="16" rx="8" stroke-width="1.4"/>
 <text class="mn" x="590" y="314" text-anchor="middle">database</text>
 <rect id="sp2" fill="#3a2a12" stroke="#e0a83c" x="550" y="322" width="80" height="16" rx="8" stroke-width="1.4"/>
-<text class="mn" x="710" y="314" text-anchor="middle">scheduler</text>
+<text class="mn" x="710" y="314" text-anchor="middle">front</text>
 <rect id="sp3" fill="#3a2a12" stroke="#e0a83c" x="670" y="322" width="80" height="16" rx="8" stroke-width="1.4"/>
 <circle id="blip" cx="840" cy="330" r="5" fill="#63e6a4"/>
 </svg>
