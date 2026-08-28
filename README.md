@@ -14,11 +14,11 @@
   </a>
 </p>
 
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/lucas-ramosfs/lucas-ramosfs/main/assets/pipeline.svg" alt="CI/CD pipeline">
 </div>
+
+<br>
 
 ---
 
@@ -54,4 +54,3 @@ everything I do: if something has to be done manually twice, it should be code.
 **Observability**
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
