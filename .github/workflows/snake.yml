@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#e07a1f&color_dots=#ebedf0,#c6e3f5,#7fc0e8,#3d8bbf,#10456b
-            dist/github-snake-dark.svg?color_snake=#ff9f4a&color_dots=#1b2735,#1f5b8f,#2f8fd0,#4fc3e8,#a8ecff
+            dist/github-snake.svg?color_snake=#d92d3f&color_dots=#ebedf0,#3d8bbf,#2f8fd0,#1f9d63,#e0a800
+            dist/github-snake-dark.svg?color_snake=#ff6b6b&color_dots=#1b2735,#2f8fd0,#4fc3e8,#63e6a4,#ffd166
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
